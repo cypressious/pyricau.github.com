@@ -252,3 +252,5 @@ To comment, copy and paste the following block
 Comment
 
 -->
+## [Kirill}(https://plus.google.com/+KirillRakhman/posts)
+The delegated version of getString() is clearly a convenience method for when you're inside an Activity or something other that inherits from Context. This way you can omit the getResources() call and make your code shorter.
